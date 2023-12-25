@@ -1,0 +1,4 @@
+2. Da se napravi nov branch "login_feature" od main/master kade ke se kreira fajl login.py vo koj ke se dodade funkcionalnost,
+da se prasa korisnikot za email i password. Ako emailot e "example@gmail.com" i passwordot e "qwerty123" da se ispecati
+poraka "Vie ste logiran". Ako pak se vnesat pogresni podatoci da se pokaze greska.
+Otkako ke se napravat promenite da se zacuvaat promenite na login_feature branchot
